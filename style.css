@@ -1,0 +1,33 @@
+.container {
+  background-color: white;
+  margin-left: 33%;
+  width: 35%;
+}
+body {
+  background-color: lightyellow;
+}
+
+i {
+  text-align: center;
+  font-size: 50px;
+  margin-left: 45%;
+  color: cadetblue;
+}
+li {
+  color: black;
+}
+.highjump {
+  background-color: pink;
+}
+.awardceremony {
+  background-color: rgb(203, 245, 135);
+}
+.longjump {
+  background-color: lightsalmon;
+}
+.race {
+  background-color: lightslategray;
+}
+.openingCeremony {
+  background-color: palevioletred;
+}
